@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fn: MyString
+  ln: MyString
+  dob: 
+
+two:
+  fn: MyString
+  ln: MyString
+  dob: 

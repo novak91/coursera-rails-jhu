@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  'n': MyString
+  date: 2017-10-05
+  loc: 
+
+two:
+  'n': MyString
+  date: 2017-10-05
+  loc: 
